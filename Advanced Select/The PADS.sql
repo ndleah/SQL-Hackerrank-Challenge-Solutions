@@ -1,0 +1,19 @@
+--Query an alphabetically ordered list of all names in OCCUPATIONS
+SELECT CONCAT(NAME, CONCAT_NAME) AS NEW_NAME
+FROM (
+    SELECT
+        *,
+        CONCAT('(', LEFT(OCCUPATION, 1), ')') AS CONCAT_NAME
+    FROM OCCUPATIONS
+) AS MYTABLE
+ORDER BY NEW_NAME;
+--Query the number of ocurrences of each occupation in OCCUPATIONS
+SELECT CONCAT('There are a total of ', `OCCUPATION_COUNT`, ' ', `LOWER_OCCUPATION`, 's.') AS FINAL
+FROM (
+    SELECT
+        LOWER(OCCUPATION) AS LOWER_OCCUPATION,
+        COUNT(*) AS OCCUPATION_COUNT
+    FROM OCCUPATIONS
+    GROUP BY OCCUPATION
+) AS MYTABLE
+ORDER BY FINAL;

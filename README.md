@@ -1,11 +1,10 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/nduongthucanh?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/nduongthucanh)
-
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
 
 <p align="center">  
-	<br>
-	<a href="https://www.hackerrank.com/nduongthucanh">
+    <br>
+    <a href="https://www.hackerrank.com/ndleah">
         <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
     </a>
     <br>
@@ -52,7 +51,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
 
-
 ### Aggregation Challenges
 
 | Number | Challenges | Solutions |
@@ -74,7 +72,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 15| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2018.sql) |
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
-
 
 ### Basic Join
 
@@ -103,7 +100,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |:------:|------------|:---------:|
 | 1 |[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [SQL](Alternative%20Queries/Draw%20The%Trangle%1.sql) |
 | 2 |[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [SQL](Alternative%20Queries/Draw%20The%Trangle%2.sql) |
-
 
 ## License
 This repository is licensed under MIT License - see [License](LICENSE) for more details
